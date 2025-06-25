@@ -1,0 +1,1 @@
+# BeyinTumorSegmentasyon_model
